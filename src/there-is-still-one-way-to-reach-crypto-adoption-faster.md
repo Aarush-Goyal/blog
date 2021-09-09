@@ -1,3 +1,25 @@
+<!-- SEO -->
+
+<meta name="title" content="There is still one way to reach crypto adoption faster">
+<meta name="author" content="Aditya Agarwal">
+<meta name="description" content="We all know the benefits of cryptocurrency. It talks to the digital future. It allows ease of transaction. It will be easy on your taxes. It is a global currency, hence turmoil in one country would not affect and it can remain stable through out. Yes, it can remain stable. The only reason behind its volatility is exploitation. Greedy investors are manipulating its prices in order to earn a profit. Once a cryptocurrency is pushed into use and adoption, its exploitation as a non-currency investment asset will stop.">
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://job-unicorn.github.io/blog/there-is-still-one-way-to-reach-crypto-adoption-faster.html">
+<meta property="og:title"  content="Job Unicorn | There is still one way to reach crypto adoption faster">
+<meta property="og:description" content="We all know the benefits of cryptocurrency. It talks to the digital future. It allows ease of transaction. It will be easy on your taxes. It is a global currency, hence turmoil in one country would not affect and it can remain stable through out. Yes, it can remain stable. The only reason behind its volatility is exploitation. Greedy investors are manipulating its prices in order to earn a profit. Once a cryptocurrency is pushed into use and adoption, its exploitation as a non-currency investment asset will stop.">
+<meta property="og:image" content="hhttps://jobunicorn.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1630957816934%2FB26occOcH.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75">
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="https://job-unicorn.github.io/blog/there-is-still-one-way-to-reach-crypto-adoption-faster.html">
+<meta property="twitter:title" content="Job Unicorn | There is still one way to reach crypto adoption faster">
+<meta property="twitter:description" content="We all know the benefits of cryptocurrency. It talks to the digital future. It allows ease of transaction. It will be easy on your taxes. It is a global currency, hence turmoil in one country would not affect and it can remain stable through out. Yes, it can remain stable. The only reason behind its volatility is exploitation. Greedy investors are manipulating its prices in order to earn a profit. Once a cryptocurrency is pushed into use and adoption, its exploitation as a non-currency investment asset will stop.">
+<meta property="twitter:image" content="https://jobunicorn.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1630957816934%2FB26occOcH.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75">
+
+<!-- --- -->
+
 # There is still one way to reach crypto adoption faster
 
 ### Author: [Aditya Agarwal](https://twitter.com/adityaphobia)
